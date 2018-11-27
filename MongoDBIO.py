@@ -3,7 +3,7 @@ from __future__ import division
 __author__ = 'LiNing'
 
 import pymongo
-
+#https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-4.0.4-signed.msi
 
 class MongoDBIO(object):
     # 申明相关的属性
